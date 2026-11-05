@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-store-templates-flutter",
+  "capabilityKey": "planned:ecommerce:store-templates",
+  "presentation": "mobile-flutter",
+  "package": "module_ecommerce_store_templates_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/ecommerce/nextjs/store-templates.md",
+  "presentationPlan": "projects/ecommerce/flutter/store-templates.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
